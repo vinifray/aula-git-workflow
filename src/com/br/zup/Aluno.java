@@ -4,11 +4,11 @@ public enum Aluno {
 
     RICARDO,
     NATALIA,
+    XABLAU,
+    THIAGO,
     THIAGO,
     RODRIGO,
-    NATALIA,
     XABLAU,
-    RICARDO,
     WESLLEY;
 
 }
