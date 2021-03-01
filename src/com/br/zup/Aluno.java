@@ -1,12 +1,14 @@
 package com.br.zup;
 
 public enum Aluno {
-    NATALIA,
+
     RICARDO,
+    NATALIA,
     XABLAU,
     THIAGO,
     THIAGO,
     RODRIGO,
     XABLAU,
-    RICARDO;
+    WESLLEY;
+
 }
