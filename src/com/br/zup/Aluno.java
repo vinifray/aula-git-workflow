@@ -9,6 +9,11 @@ public enum Aluno {
     THIAGO,
     RODRIGO,
     XABLAU,
+<<<<<<< HEAD
     WESLLEY;
+=======
+    WESLLEY,
+    KAIO;
+>>>>>>> 3edab7b (ncluindo o meu nome)
 
 }
