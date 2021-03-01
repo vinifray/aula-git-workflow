@@ -5,5 +5,8 @@ public enum Aluno {
     RICARDO,
     XABLAU,
     THIAGO,
-
+    THIAGO,
+    RODRIGO,
+    XABLAU,
+    RICARDO;
 }
