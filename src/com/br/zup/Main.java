@@ -8,5 +8,10 @@ public class Main {
         for (Docente docente : Docente.values()){
             System.out.println("-> "+ docente);
         }
+
+        System.out.println("\nEsses são os alunos");
+        for (Aluno aluno : Aluno.values()){
+            System.out.println("-> "+ aluno);
+        }
     }
 }
