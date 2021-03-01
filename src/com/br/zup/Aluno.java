@@ -6,5 +6,6 @@ public enum Aluno {
     THIAGO,
     RODRIGO,
     NATALIA,
-    XABLAU;
+    XABLAU,
+    RICARDO;
 }
